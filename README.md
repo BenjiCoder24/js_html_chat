@@ -2,6 +2,11 @@
 
 This tutorial introduces how to use JavaScript within HTML to create interactive web pages.
 
+## open the tutorial in google Colab
+
+<a href="https://colab.research.google.com/github/BenjiCoder24/js_html_chat/blob/main/js_html_detailed_introduction_notebook.ipynb" target="_blank">Open in Google Colab</a>
+
+
 ## Embedding JavaScript in HTML
 
 You can embed JavaScript directly into HTML using the `<script>` tag. The script can be placed in the `<head>` section, the `<body>` section, or both, depending on when you want the script to load.
